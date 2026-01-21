@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Vengadesan!
+# 👋 Hello, I'm G Sirisha!
  
-MERN Stack Developer | Full Stack Developer | React Developer | JavaScript | Node.js | MongoDB | Building Scalable Web Applications
+Python Developer | Full Stack Developer | JavaScript | MongoDB | Building Scalable Web Applications
  
 ---
  
@@ -11,7 +11,7 @@ MERN Stack Developer | Full Stack Developer | React Developer | JavaScript | Nod
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge%22 alt="JavaScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
 </p>
- 
+
 ### 🎨 Frontend  
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
