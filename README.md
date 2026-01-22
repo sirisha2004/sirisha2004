@@ -21,9 +21,9 @@ Python Developer | Full Stack Developer | JavaScript | MongoDB | Building Scalab
  
 ### 🧩 Backend  
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge%22 alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge%22 alt="Express.js" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge%22 alt="MongoDB" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge%22" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge%22" alt="Express.js" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge%22" alt="MongoDB" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
 </p>
  
