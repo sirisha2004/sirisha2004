@@ -50,8 +50,8 @@ Python Developer | Full Stack Developer | JavaScript | MongoDB | Building Scalab
  
 ## 📬 Contact Me
  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vgdan25)
-- 📧 vgdan.1999@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/g-sirisha)
+- 📧 sirisha1925@gmail.com
  
 ---
  
