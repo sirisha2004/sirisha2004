@@ -38,10 +38,10 @@ Python Developer | Full Stack Developer | JavaScript | MongoDB | Building Scalab
  
 | Project | Description | Live Link |
 |--------|-------------|-----------|
-| **Doctor Booking App** | A healthcare appointment booking system | [Live Site](https://healixspeciality.netlify.app/) |
-| **IllustraAI - Text to Image** | AI-powered image generation app | [Live Site](https://illustraai.netlify.app/) |
-| **Kitchen Recipe Manager** | Recipe creation and management platform | [Live Site](https://dishdashrecipe.netlify.app/) |
-| **Markdown Editor** | Real-time markdown editor with preview | [Live Site](https://profound-beignet-ffc61c.netlify.app) |
+| **Sky Wide Tours** | A travel booking system | [Live Site](https://sirishapro.netlify.app/) |
+| **Voice Ai Assistance** | AI-powered voice Ai Assistance | [Live Site](https://voiceaiassistance.netlify.app/) |
+| **Check Weather** | A weather checking website | [Live Site](https://checkweatherpro.netlify.app/) |
+| **Modern Web Based Calculator** | A Web Based Calculator | [Live Site](https://modern-web-calculator.netlify.app/) |
  
 ---
  
