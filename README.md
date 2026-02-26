@@ -38,6 +38,7 @@ Python Developer | Full Stack Developer | JavaScript | MongoDB | Building Scalab
  
 | Project | Description | Live Link |
 |--------|-------------|-----------|
+| **Portfolio** | portfolio  | [Live Site](https://sirisha2004.github.io/Portfolio/) |
 | **Sky Wide Tours** | A travel booking system | [Live Site](https://sirishapro.netlify.app/) |
 | **Voice Ai Assistance** | AI-powered voice Ai Assistance | [Live Site](https://voiceaiassistance.netlify.app/) |
 | **Check Weather** | A weather checking website | [Live Site](https://checkweatherpro.netlify.app/) |
